@@ -1,0 +1,26 @@
+/* Element Selector */
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+/* Class Selector */
+#simple {
+    font-size: 18px;
+    color: gray;
+    text-align: center;
+}
+
+/* ID Selector */
+#learn-more {
+    color: red;
+    text-decoration: none;
+}
+
+#learn-more:hover {
+    color: green;
+}
+
+*{
+    text-align: center  ;
+}
